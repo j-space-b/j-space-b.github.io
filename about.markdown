@@ -1,18 +1,28 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: High Level
+permalink: /highlevel/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I live in SF Bay Area.  Formerly of Southern California, ND, NYC.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+Adventures:
+
+* Used to run marathons, now run with my husky mix at a slower pace.
+
+* Hiking and backpacking until transcendence.  
+
+* Skiing with the fall line.
+
+* Diving in clear water.
+
+* Backpacking between mosquito lifespans.
+
+* Traveling when I'm not home.
+
+
+* Meditating to open it all up.
+
+
