@@ -8,10 +8,9 @@
 title: Jon Bennion | AI Projects and Research
 email: jonathan.bennion at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  AI projects and research into what used to be called ML
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: nothing
+twitter_username: rooftopzen
 github_username:  j-space-b
 
 # Build settings
