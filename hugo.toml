@@ -1,0 +1,39 @@
+baseURL = 'https://j-space-b.github.io/'
+languageCode = 'en-us'
+title = 'Jonathan Bennion - Personal Flog:  Fragmented Thought Log'
+theme = "PaperMod"
+
+[params]
+  description = "Jonathan Bennion - Personal Flog:  Fragmented Thought Log"
+  author = "Jonathan Bennion"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowToc = true
+  keywords = ["Jonathan Bennion", "blog", "technology", "applied science", "machine learning"]
+[params.homeInfoParams]
+  Title = "Tracking one-off thoughts.. ✌ "
+  Content = "Humor me, dive in"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/j-space-b"
+[[params.socialIcons]]
+  name = "medium"
+  url = "https://medium.com/@jonathan.bennion"
+[[params.socialIcons]]
+  name = "substack"
+  url = "https://aiencoder.substack.com"
+
+[params.seo]
+  title = "Jonathan Bennion - Personal  Flog: Fragmented Thought Log"
+  description = "Personal log of Jonathan Bennion, biased by time and place"
+
+[params.analytics.google]
+  SiteVerificationTag = "EbAfp4roTDI5hO12jwefxtjxNR0TFJei0GvhIi6X4JQ"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

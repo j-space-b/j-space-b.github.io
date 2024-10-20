@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jonathan Bennion - Personal Flog:  Fragmented Thought Log</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jonathan Bennion - Personal Flog:  Fragmented Thought Log</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Oct 2024 16:40:30 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jonathan Bennion - SemiUpdated Current Projects</title>
+      <link>http://localhost:1313/posts/current-projects/</link>
+      <pubDate>Sat, 19 Oct 2024 16:40:30 -0700</pubDate>
+      <guid>http://localhost:1313/posts/current-projects/</guid>
+      <description>&lt;h1 id=&#34;what-ive-been-up-to-lately&#34;&gt;What I&amp;rsquo;ve been up to lately:&lt;/h1&gt;
+&lt;p&gt;Overall anti-AI hype, pro-machine-learning development.&lt;/p&gt;
+&lt;p&gt;Recent research needed a centralized place to be categorized, so see below:&lt;/p&gt;
+&lt;h2 id=&#34;list-of-current-areas-of-focus&#34;&gt;List of current areas of focus:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://medium.com/towards-artificial-intelligence/confounds-in-human-bias-mitigation-in-language-model-datasets-jonathan-bennion-001bee212bb0&#34;&gt;Bias Correction in LM-Generated Content&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://nv202910.streamlit.app/&#34;&gt;Agentic Counterfactual Correction in LM-Generated Content&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://nv202910.streamlit.app/&#34;&gt;Logical Fallacy Correction for News and LM-Generated Content&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ping me to discuss; shoot me a note at jonathan.bennion [at] gmail to connect.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
