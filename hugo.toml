@@ -16,7 +16,7 @@ theme = "PaperMod"
   keywords = ["Jonathan Bennion", "blog", "technology", "applied science", "machine learning"]
 [params.homeInfoParams]
   Title = "Tracking one-off thoughts.. ✌ "
-  Content = "Humor me, dive in"
+  Content = "What I've been up to lately: Overall anti-AI hype, pro ML development.  See links below for posting channels. Shoot me a note at jonathan.bennion [at] gmail to connect."
 
 [[params.socialIcons]]
   name = "github"
